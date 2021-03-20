@@ -10,7 +10,7 @@ html {
 }
 
 article {
-  color: #222;
+  color: #555;
   padding-right: 1rem;
   padding-left: 1rem;
 }
@@ -22,12 +22,15 @@ margin: 0;
 article h1 {
   font-family: "Crimson Text", serif;
   font-size: 1.5rem;
+  color: #222;
+  font-weight: lighter;
 }
 
 article header p {
   font-size: 1.125rem;
   font-style: italic;
   font-family: "Crimson Text", serif;
+  color: #222;
 }
 
 article p {
@@ -49,7 +52,10 @@ blockquote {
   color: #999;
   font-family: "Crimson Text", serif;
   font-size: 1.5rem;
-  text-align: left;
   padding-left: 1em;
   padding-right: 1em;
+}
+
+.quote {
+  text-align: left;
 }
