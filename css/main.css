@@ -9,10 +9,10 @@ html {
 }
 
 body {
-padding-left: 1rem;
-padding-right: 1rem;
-margin: 0;
-padding-bottom: 2em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: 0;
+  padding-bottom: 2em;
 }
 
 article {
@@ -47,7 +47,7 @@ blockquote p {
   color: #555;
 }
 
- .quote {
+.quote {
   font-size: 1.125rem;
   color: #555;
 }
@@ -58,6 +58,6 @@ article p {
 }
 
 article ol {
-padding-top: 1em;
-padding-left: 1em;
+  padding-top: 1em;
+  padding-left: 1em;
 }
